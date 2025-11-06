@@ -1,0 +1,5 @@
+smartapi-python
+logzero
+websocket-client
+pandas
+backtrader
