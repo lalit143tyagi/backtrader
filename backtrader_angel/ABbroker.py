@@ -1,5 +1,5 @@
 import backtrader as bt
-from angel_integration.store import AngelStore
+from backtrader_angel.ABstore import AngelStore
 from database.manager import get_instrument_token
 import logging
 

@@ -1,8 +1,8 @@
 import backtrader as bt
 from datetime import datetime
-from angel_integration.store import AngelStore
-from angel_integration.data import AngelData
-from angel_integration.broker import AngelBroker
+from backtrader_angel.ABstore import AngelStore
+from backtrader_angel.ABdata import AngelData
+from backtrader_angel.ABbroker import AngelBroker
 import json
 
 # --- 1. Define a Simple Trading Strategy ---

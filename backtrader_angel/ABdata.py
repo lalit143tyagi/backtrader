@@ -1,6 +1,6 @@
 import backtrader as bt
 import pandas as pd
-from angel_integration.store import AngelStore
+from backtrader_angel.ABstore import AngelStore
 from database.manager import get_instrument_token
 from datetime import datetime, timedelta
 import logging
