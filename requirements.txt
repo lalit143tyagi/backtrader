@@ -1,0 +1,11 @@
+fastapi
+backtrader
+psycopg2-binary
+sqlalchemy
+smartapi-python
+uvicorn
+python-dotenv
+logzero
+websocket-client
+pyotp
+pandas
