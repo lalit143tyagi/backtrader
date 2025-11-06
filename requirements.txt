@@ -1,0 +1,6 @@
+backtrader
+smartapi-python
+pandas
+psycopg2-binary
+logzero
+websocket-client
