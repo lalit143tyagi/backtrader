@@ -1,0 +1,9 @@
+backtrader
+smartapi-python
+SQLAlchemy
+psycopg2-binary
+python-dotenv
+pyotp
+pandas
+logzero
+websocket-client
